@@ -39,7 +39,7 @@ GPU-mined coins can never have final settlement because there are always many mo
 ----------------------------------------------------------------------
 
 # META
-Original Author: Nic Carter
-Original Word Count: 5776
-Original Posted Date: July 22, 2019
-Original Source: https://medium.com/@nic__carter/its-the-settlement-assurances-stupid-5dcd1c3f4e41
+- Original Author: Nic Carter
+- Original Word Count: 5776
+- Original Posted Date: July 22, 2019
+- Original Source: https://medium.com/@nic__carter/its-the-settlement-assurances-stupid-5dcd1c3f4e41
