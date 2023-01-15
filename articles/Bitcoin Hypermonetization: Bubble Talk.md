@@ -63,6 +63,8 @@ The higher the price, the more marketing and adoption Bitcoin enjoys, which lead
 
 Unlike a simple asset bubble mania, the more people begin using a medium of exchange - the more its utility rises and the more valuable it is in this function for its users.
 
+----------------------------------------------------------------------
+
 # META
 - Original Author: Konrad Graf
 - Original Word Count: 1668
