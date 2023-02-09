@@ -34,7 +34,7 @@ Money itself is a network, which is why governments have been so keen to monopol
 The fundamental way we increase prosperity in society is through groundbreaking innovations that allow us to deliver **1000x** more energy - they massively dwarf any political moves.
 
 Railroad, steel, aluminum, oil, food, and medicinal advances were all 1000x advances in their own right and are each key to defining life as we know it today.
-
+![steel_age_infographic.png](./steel_age_infographic.png)
 All the companies involved in this were tech companies in their time.
 
 # Industry Protocols
