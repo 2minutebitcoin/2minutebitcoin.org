@@ -17,8 +17,10 @@ It is all a matter of perspective, and relative value - how valuable is **this u
 
 Someone still lost in the dollar world looks at Bitcoin and sees wild and extreme volatility, whereas someone in Bitcoin looking back at the dollar sees a crash and subsequent bleed/stagnation.
 
+![s&p_in_btc.png](./s&p_in_btc.png)
 *S&P 500 priced in Bitcoin*
 
+![usd_sats_depreciation.png](./usd_sats_depreciation.png)
 *$1 denominated in sats*
 
 # Bitcoin Accountancy
