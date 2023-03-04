@@ -27,7 +27,7 @@ The same applies to Bitcoin. It’s why you **can't copy** Bitcoin's value by [f
 Similarly, if a new metal better than gold was found - it wouldn't inherit all its value.
 
 # Network Effect
-***Money becomes more useful and more valuable the more people use it**.*
+***Money becomes more useful and more valuable the more people use it.***
 
 As more people begin to hold money, its value and utility **both** rise. The rational response of everyone else is to try to get more themselves, resulting in a positive upward spiral.
 
