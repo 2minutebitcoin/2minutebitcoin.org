@@ -45,8 +45,6 @@ This is why Bitcoin is the only cryptocurrency destined for success.
 
 Bitcoin offers a 1000x improvement over fiat currencies, but no other cryptocurrencies offer a [1000x improvement]( https://www.2minutebitcoin.org/blog/saylor-series-episode-2-the-rise-of-man-through-the-dark-and-steel-ages-robert-breedlove) over Bitcoin.
 
-like a simple asset bubble mania, the more people begin using a medium of exchange - the more its utility rises and the more valuable it is in this function for its users.
-
 ----------------------------------------------------------------------
 
 # META
