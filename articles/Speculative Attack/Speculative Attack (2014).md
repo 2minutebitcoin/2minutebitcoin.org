@@ -41,3 +41,12 @@ When they see the price of Bitcoin rise, citizens of countries with stronger-but
 
 The feedback loop between fiat inflation and bitcoin deflation will throw the world into full hyperbitcoinization.
 [Gradually, then suddenly](https://www.2minutebitcoin.org/blog/gradually-then-suddenly-bitcoin#:~:text=Because%20Bitcoin%27s%20supply%20is%20fixed%20and%20cannot%20be%20manipulated%2C%20it%20will%20eventually%20become%20the%20most%20reliable%20pricing%20mechanism%20in%20the%20world).
+
+
+----------------------------------------------------------------------
+
+# META
+- Original Author: Pierre Rochard
+- Original Word Count: 2073
+- Original Posted Date: July 4, 2014
+- Original Source: https://nakamotoinstitute.org/mempool/speculative-attack/
