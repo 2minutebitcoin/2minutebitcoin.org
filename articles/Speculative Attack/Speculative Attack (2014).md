@@ -25,7 +25,8 @@ In this process, banks create **more** weak currency, amplifying the problem.
 The immediate effect of this is that **the local** price of Bitcoin goes up. The higher local price incentivizes traders to perform **arbitrage** for profit - buy the cheaper bitcoin in foreign dollars, sell it for the more expensive local currency, then sell the local currency for dollars.
 This additional sell pressure **further** weakens the local currency.
 
-TODO: [!img]..
+![speculative_attack](./speculative_attack_peru.jpg)
+
 - Bitcoin market cap at $22,000 - $424B
 - Peru GDP - $223B
 
@@ -33,8 +34,10 @@ The local central bank is powerless - it has limited tools to deal with this tha
 
 ## Hyperbitcoinization
 Such a speculative attack can be seen as a series of dominoes - it rapidly turns into **contagion**.
-TODO: [!img]..
-When they see the price of Bitcoin rise, citizens of countries with stronger-but-still-weak currencies buy in too. This action entails **the same** cycle Summary It's Not About The Technology, It's About The Money https://www.2minutebitcoin.org/blog/bitcoin-is-about-the-money-not-the-blockchain-technology#:~:text=Money%20becomes%20more,everybody%20adopts%20it. of economic instability in their local currency. Rinse and repeat.
+
+![hyperbitcoinization_domino](./hyperbitcoinization_domino.png)
+
+When they see the price of Bitcoin rise, citizens of countries with stronger-but-still-weak currencies buy in too. This action entails [**the same** cycle](https://www.2minutebitcoin.org/blog/bitcoin-is-about-the-money-not-the-blockchain-technology#:~:text=Money%20becomes%20more,everybody%20adopts%20it) of economic instability in their local currency. Rinse and repeat.
 
 The feedback loop between fiat inflation and bitcoin deflation will throw the world into full hyperbitcoinization.
 [Gradually, then suddenly](https://www.2minutebitcoin.org/blog/gradually-then-suddenly-bitcoin#:~:text=Because%20Bitcoin%27s%20supply%20is%20fixed%20and%20cannot%20be%20manipulated%2C%20it%20will%20eventually%20become%20the%20most%20reliable%20pricing%20mechanism%20in%20the%20world).
